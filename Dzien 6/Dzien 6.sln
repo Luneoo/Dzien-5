@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzien 6", "Dzien 6\Dzien 6.csproj", "{5ADE5AAF-E56D-4312-A7B9-DA0F76273C41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dzien 6", "Dzien 6\Dzien 6.csproj", "{5ADE5AAF-E56D-4312-A7B9-DA0F76273C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzien6.Test(Dzien7)", "Dzien6.Test(Dzien7)\Dzien6.Test(Dzien7).csproj", "{AE68BF35-8523-4C74-96E7-253321CB2F9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5ADE5AAF-E56D-4312-A7B9-DA0F76273C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ADE5AAF-E56D-4312-A7B9-DA0F76273C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ADE5AAF-E56D-4312-A7B9-DA0F76273C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE68BF35-8523-4C74-96E7-253321CB2F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE68BF35-8523-4C74-96E7-253321CB2F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE68BF35-8523-4C74-96E7-253321CB2F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE68BF35-8523-4C74-96E7-253321CB2F9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
