@@ -26,9 +26,5 @@
             this.score.Add(score);
         }
 
-        public void RemoveScore(int score)
-        {
-            this.score.Remove(score);
-        }
     }
 }
